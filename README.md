@@ -8,3 +8,5 @@ Elevator Occupancy Counter Using ESP-32
  The system displays the real-time occupancy count on a screen located in the waiting lobby. 
  
 •This allows users to make informed decisions about whether to wait or consider alternative options, ultimately improving efficiency and reducing frustration.
+
+For any Further issues during implementation of this Project please reach out to me on Linkedin.
